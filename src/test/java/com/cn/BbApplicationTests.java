@@ -12,6 +12,7 @@ class BbApplicationTests {
         System.out.println("再次初始化Git....");
         System.out.println("dev初始化Git....");
         System.out.println("dev再次初始化Git....");
+        System.out.println("dev最后一次初始化Git....");
     }
 
 }
