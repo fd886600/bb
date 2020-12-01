@@ -10,6 +10,7 @@ class ApplicationTests {
     void contextLoads() {
         System.out.println("初始化Git....");
         System.out.println("再次初始化Git....");
+        System.out.println("最后一次初始化git....");
     }
 
 }
