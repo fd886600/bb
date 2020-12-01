@@ -11,6 +11,8 @@ class ApplicationTests {
         System.out.println("初始化Git....");
         System.out.println("再次初始化Git....");
         System.out.println("最后一次初始化git....");
+        int n = 0;
+        int a = 1;
     }
 
 }
