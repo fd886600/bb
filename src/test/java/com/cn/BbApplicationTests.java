@@ -10,6 +10,7 @@ class BbApplicationTests {
     void contextLoads() {
         System.out.println("初始化Git....");
         System.out.println("再次初始化Git....");
+        System.out.println("dev初始化Git....");
     }
 
 }
